@@ -1,1 +1,2 @@
-# portfolio
+# glowiq
+Software Solutions company
